@@ -1,0 +1,4 @@
+([('main',
+   '/Users/Deepee/Desktop/Desktop/LEARN/Personal '
+   'Projects/CryptoCurrency/dist/main',
+   'EXECUTABLE')],)
